@@ -1,7 +1,7 @@
 # Pizca (Astro + Vanilla JS + esbuild-wasm)
 Una herramienta web ultra rápida para la minificación de archivos JS y CSS, construida con Astro y ejecutada íntegramente en el cliente mediante WebAssembly.
 
-[🔗 Ver Versión Web en GitHub Pages](https://FranIsra.github.io/pizca)
+[🔗 Ver Versión Web en GitHub Pages](https://franisra.github.io/pizca)
 
 ✨ Características
 
@@ -42,7 +42,7 @@ Clona el repositorio:
 Bash
 
 ```text
-git clone https://github.com/FranIsra/pizca.git
+gh repo clone FranIsra/pizca
 ```
 
 Instala las dependencias:
